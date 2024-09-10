@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Calculator.Domain.Interfaces;
+using System.Text.RegularExpressions;
 
 namespace Calculator.Infrastructure
 {
@@ -20,7 +21,9 @@ namespace Calculator.Infrastructure
         public int Add(string input, out string formula)
         {
             formula = input;
-            var resultNumbers = input.Split(new[] { ','}, StringSplitOptions.RemoveEmptyEntries);
+           
+            string pattern = @"[, \\n]+";
+            var resultNumbers = Regex.Split(input, pattern);
             return ProcessNumbers(resultNumbers, out formula);
         }
 
