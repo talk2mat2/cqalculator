@@ -26,8 +26,8 @@ namespace Calculator.Infrastructure
 
         private int ProcessNumbers(string[] numbers, out string formula)
         {
-            if (numbers.Length > 2)
-                throw new Exception("Number cant be graeter than two.");
+            //if (numbers.Length > 2)
+            //    throw new Exception("Number cant be graeter than two.");
 
             int result = 0;
             formula = "";
