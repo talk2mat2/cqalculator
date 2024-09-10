@@ -32,6 +32,8 @@ namespace Calculator.Infrastructure
             //if (numbers.Length > 2)
             //    throw new Exception("Number cant be graeter than two.");
 
+            var negativeNumbers = new List<int>();
+
             int result = 0;
             formula = "";
 
@@ -39,6 +41,16 @@ namespace Calculator.Infrastructure
             {
                 if (int.TryParse(number, out int value))
                 {
+                    if (value < 0)
+                    {
+                        negativeNumbers.Add(value);
+                    }
+                  
+                    if(negativeNumbers.Count > 0)
+                    {
+                        throw new Exception("Negative number not allowed.");
+                    }
+
                     result += value;
 
                     if (formula != "")
