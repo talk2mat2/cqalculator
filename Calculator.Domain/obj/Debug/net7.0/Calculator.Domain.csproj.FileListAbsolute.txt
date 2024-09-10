@@ -1,0 +1,12 @@
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\bin\Debug\net7.0\Calculator.Domain.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\bin\Debug\net7.0\Calculator.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\bin\Debug\net7.0\Calculator.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\refint\Calculator.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\Calculator.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Domain\obj\Debug\net7.0\ref\Calculator.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\bin\Debug\net7.0\Calculator.Application.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\bin\Debug\net7.0\Calculator.Application.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\bin\Debug\net7.0\Calculator.Application.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\bin\Debug\net7.0\Calculator.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\bin\Debug\net7.0\Calculator.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.csproj.CopyComplete
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\refint\Calculator.Application.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\Calculator.Application.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Application\obj\Debug\net7.0\ref\Calculator.Application.dll

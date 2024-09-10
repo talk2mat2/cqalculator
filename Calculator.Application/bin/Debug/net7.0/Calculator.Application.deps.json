@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Calculator.Application/1.0.0": {
+        "dependencies": {
+          "Calculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.Application.dll": {}
+        }
+      },
+      "Calculator.Domain/1.0.0": {
+        "runtime": {
+          "Calculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

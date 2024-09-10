@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Calculator.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Calculator.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Calculator.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator.Application.dll": {}
+        }
+      },
+      "Calculator.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Calculator.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator.Application/1.0.0": {
+      "type": "project",
+      "path": "../Calculator.Application/Calculator.Application.csproj",
+      "msbuildProject": "../Calculator.Application/Calculator.Application.csproj"
+    },
+    "Calculator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Calculator.Domain/Calculator.Domain.csproj",
+      "msbuildProject": "../Calculator.Domain/Calculator.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Calculator.Application >= 1.0.0",
+      "Calculator.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Chukuwumasm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Infrastructure\\Calculator.Infrastructure.csproj",
+      "projectName": "Calculator.Infrastructure",
+      "projectPath": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Infrastructure\\Calculator.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Chukuwumasm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Chukuwumasm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Application\\Calculator.Application.csproj": {
+              "projectPath": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Application\\Calculator.Application.csproj"
+            },
+            "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Domain\\Calculator.Domain.csproj": {
+              "projectPath": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.Domain\\Calculator.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

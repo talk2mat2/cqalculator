@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pl0D0MLHAx22cARB7py1/KDAvj2q0DDqdK8L8ZmRKM1pVaathHxJGqRytHWxb33DBvLuPTGLpyjoeo9/rlTNmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chukuwumasm\\Desktop\\projects\\CalculatorSolution\\Calculator.ConsoleApp\\Calculator.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chukuwumasm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chukuwumasm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

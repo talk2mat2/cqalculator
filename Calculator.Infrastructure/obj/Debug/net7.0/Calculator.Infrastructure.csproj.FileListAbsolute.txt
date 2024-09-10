@@ -1,0 +1,17 @@
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Infrastructure.deps.json
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Infrastructure.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Infrastructure.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Application.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Domain.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Application.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\bin\Debug\net7.0\Calculator.Domain.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.AssemblyInfo.cs
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.csproj.CopyComplete
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\refint\Calculator.Infrastructure.dll
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\Calculator.Infrastructure.pdb
+C:\Users\Chukuwumasm\Desktop\projects\CalculatorSolution\Calculator.Infrastructure\obj\Debug\net7.0\ref\Calculator.Infrastructure.dll
