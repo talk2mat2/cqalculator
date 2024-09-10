@@ -21,8 +21,9 @@ namespace Calculator.Infrastructure
         public int Add(string input, out string formula)
         {
             formula = input;
-           
-            string pattern = @"[, \\n # //]+";
+            
+            string pattern = @"[, \\n # // *** rr r9r]+";
+
             var resultNumbers = Regex.Split(input, pattern);
             return ProcessNumbers(resultNumbers, out formula);
         }
