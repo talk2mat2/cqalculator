@@ -50,8 +50,12 @@ namespace Calculator.Infrastructure
                     {
                         throw new Exception("Negative number not allowed.");
                     }
+                    else if (value <= 1000)
+                    {
+                        result += value;
+                    }
 
-                    result += value;
+                    //result += value;
 
                     if (formula != "")
                     {
