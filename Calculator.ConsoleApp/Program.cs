@@ -11,6 +11,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("working");
+            //use dependency injection
             var serviceProvider = new ServiceCollection()
              .AddSingleton<ICalculator, Calculator.Infrastructure.Calculator>()
              .AddSingleton<ICalculatorService, CalculatorApp.Application.Services.CalculatorService>()
