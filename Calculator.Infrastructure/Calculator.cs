@@ -22,7 +22,7 @@ namespace Calculator.Infrastructure
         {
             formula = input;
            
-            string pattern = @"[, \\n]+";
+            string pattern = @"[, \\n # //]+";
             var resultNumbers = Regex.Split(input, pattern);
             return ProcessNumbers(resultNumbers, out formula);
         }
